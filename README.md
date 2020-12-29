@@ -22,6 +22,8 @@ Initialise the database object, you can pass the file path to store the database
 
 `db=database(r'C:\Users\PIYUSH\Desktop')`
 
+Please use *r* before the file path.
+
 By default the database will be stored in the working directory itself.
 
 **create()**
